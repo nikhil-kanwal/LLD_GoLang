@@ -1,4 +1,4 @@
-package survey
+package main
 
 import (
 	"encoding/json"
