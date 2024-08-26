@@ -1,7 +1,7 @@
 go 1.20
 
 use (
-	"./LLDQuestions/test/"
-	"./DesignPatterns/Creational/SIngelton/"
-	"./SOLID"
+	./DesignPatterns/Creational/SIngelton/
+	./LLDQuestions/DesignParkingLot
+	./SOLID
 )
